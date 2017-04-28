@@ -1,7 +1,7 @@
 # Music Library
 
 
-<img src="https://s3.amazonaws.com/after-school-assets/music.gif"width="300" hspace="10" align="right">
+<img src="https://s3.amazonaws.com/after-school-assets/music.gif" width="300" hspace="10" align="right">
 
 We all take how our music library works for granted. It just works, right? We can add artists and songs, we can make playlists, and we can delete songs. We just assume it will always work the same way every single time and we don't have to think about the rest.
 
