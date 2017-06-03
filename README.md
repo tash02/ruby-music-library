@@ -7,7 +7,7 @@ We all take how our music library works for granted. It just works, right? We ca
 
 But if we take a second to think about it, wouldn't a hash make sense? Every artist in your library would be a key, and the value would be their songs. 
 
-In this lab, we're going to build the inner workings of our very own music library program. In terminal, run `learn` to run the tests and check your work. Remember, the tests are written as guidelines for how your code should operate.
+In this lab, we're going to build the inner workings of our very own music library program. In terminal, run `rspec` to run the tests and check your work. Remember, the tests are written as guidelines for how your code should operate.
 
 ### Step 1:
 
