@@ -9,6 +9,8 @@ But if we take a second to think about it, wouldn't a hash make sense? Every art
 
 In this lab, we're going to build the inner workings of our very own music library program. In terminal, run `rspec` to run the tests and check your work. Remember, the tests are written as guidelines for how your code should operate.
 
+You'll be writing methods that accept a  music library hash that contains artists and their songs!
+
 ### Step 1:
 
 Define a method named `list_artists`. This method should use the `each_key` method to iterate over the hash and return all the artists (the keys). This method should accept a hash as an argument.
